@@ -68,7 +68,7 @@
         <div>
           <div class="name">${message.username}</div>
           <div class="text">${message.text}</div>
-          <div class="timestamp">${message.timestamp}</div> 
+          <div class="timestamp">${getCurrentTimestamp()}</div> 
         </div>
         <button  class="delete-message">
           <i class="fas fa-trash"></i>
@@ -87,6 +87,14 @@
       messagecontainer.appendChild(el);
     }
     messagecontainer.scrollTop = messagecontainer.scrollHeight - messagecontainer.clientHeight;
+  }
+
+    function getCurrentTimestamp() {
+    const date = new Date();
+    const hours = date.getHours().toString().padStart(2, "0");
+    const minutes = date.getMinutes().toString().padStart(2, "0");
+    const seconds=date.getSeconds().toString().padStart(2,"0");
+    return `${hours}:${minutes}:${seconds}`;
   }
   
   app.querySelector(".chat-screen #userexit").addEventListener("click", function() {
