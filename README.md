@@ -1,6 +1,9 @@
 # CodeClause_Chat_Application
-![Screenshot 2023-07-04 135925](https://github.com/ReubenMatrix/CodeClause_Chat_Application/assets/136352370/79a7f24e-3cf1-43e7-8add-7e3167f49388)
+![image](https://github.com/ReubenMatrix/CodeClause_Chat_Application/assets/136352370/9b14331a-d55f-4b56-8740-f9cfb5c574e2)
 
-![Screenshot 2023-07-04 140009](https://github.com/ReubenMatrix/CodeClause_Chat_Application/assets/136352370/94cff3bf-5160-45ef-b94d-31c6daa98244)
 
-![Screenshot 2023-07-04 140036](https://github.com/ReubenMatrix/CodeClause_Chat_Application/assets/136352370/b577e50c-5329-4adf-9d4b-4bb407bfd906)
+![image](https://github.com/ReubenMatrix/CodeClause_Chat_Application/assets/136352370/fde0c441-cc73-4543-a276-2afffdc9c4ae)
+
+
+![image](https://github.com/ReubenMatrix/CodeClause_Chat_Application/assets/136352370/8e0e775d-ff88-491e-b154-0a07652284b3)
+
